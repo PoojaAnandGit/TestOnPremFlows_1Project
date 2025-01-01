@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/PoojaAnandGit
   gitUsername: PoojaAnandGit
   gitBranch: main
+- name: DesignerStepsInCloudEditorTxPipelinePackage
+  gitServerName: test
+  gitUrl: https://github.com/santhu736852
+  gitUsername: PoojaAnandGit
+  gitBranch: main
