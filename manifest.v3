@@ -9,17 +9,18 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="DesignerStepsInCloudEditorTxPipelinePackage">1.0</value>
+    <value name="testControls_3">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">3</value>
+  <value name="build">4</value>
   <null name="description"/>
   <value name="created_date">01-01-2025 16:30:58 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-01-01T16:31:22.9422867Z</value>
+  <value name="lastUpdated">2025-01-02T04:37:30.2604423Z</value>
   <value name="wmProjectId">fl17275e5af295ea4e442b25</value>
   <value name="creator">Pooja Anand</value>
 </Values>
